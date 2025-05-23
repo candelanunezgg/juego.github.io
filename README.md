@@ -1,72 +1,44 @@
-# (Nombre del proyecto)
+# (ウィンドウズの 友達)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo :ウィンドウズの 友達
 
-Web: (url github.io)
+Web: https://github.com/candelanunezgg/juego.github.io
 
-Autor: (Nombre apellidos)
+Autor: Candela Núñez Guillermo
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este juego consiste en una mascota virtual con tintes de estética humorística y del internet antiguo.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Juego/Mascotas virtuales
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Resolución: 600x400px responsivo
 
-(insertar imágenes a resolucion de 100px alto)
+Probado en: Microsoft Edge
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Tamaño proyecto: 52,7KB
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Fecha : 23/05/2025
 
-Tamaño proyecto: 14MB
+Medios
 
-Fecha : 14/05/2025
-
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github:https://github.com/candelanunezgg/juego.github.io
+Instagram: fumandooflorees
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+El proyecto comienza con una animación introductoria, a continuación pasa al menú principal donde a parte de iniciar el juego hay un apartado con la información de los personajes, los créditos y la configuración del sonido.
+En el juego en sí, podemos encontrar a la izquierda un minijuego al estilo "Flappy Bird", en el centro objetos para alimentar a nuestra mascota y a la derecha un frasco misterioso....
 
 ## 3. Metodología
 
-Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque no se trata de una mascota virtual común, te trasporta a un universo extraño que raramente se siente algo familiar. Inquietante, y humorístico a la vez, te preguntarás que estás viendo.
+Este juego está enfocado a un público de entre 16-25 años, pues esta estética está vigente entre estas edades y los toques de humor son pertenecientes a memes de la cultura actual de internet.
 
-Orientado a .. (Público)
-
-Etapa 2: Desarrollo / actividades realizadas
-
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-## 5 Referencias
-**Artículos y blogs **
-
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
-
-**Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+Como persona que no ha programado nunca y que está totalmente alejada del mundo de la informática, este nproyecto a supuesto un gran reto para mi, al principio fluía bastante bien, pero conforme iba introduciendo funciones más complejas me iba costando más que estas funcionasen. A día de hoy el juego todavía no está acabado, le queda la introducción de alimentos que desbloquearán mensajes del personaje, y arreglar el minijuego para que se generen choques aleatorios.
 
 Mayo 2025
