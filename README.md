@@ -39,6 +39,6 @@ Este juego está enfocado a un público de entre 16-25 años, pues esta estétic
 
 
 ## 4. Conclusiones
-Como persona que no ha programado nunca y que está totalmente alejada del mundo de la informática, este nproyecto a supuesto un gran reto para mi, al principio fluía bastante bien, pero conforme iba introduciendo funciones más complejas me iba costando más que estas funcionasen. A día de hoy el juego todavía no está acabado, le queda la introducción de alimentos que desbloquearán mensajes del personaje, y arreglar el minijuego para que se generen choques aleatorios.
+Como persona que no ha programado nunca y que está totalmente alejada del mundo de la informática, este nproyecto a supuesto un gran reto para mi, al principio fluía bastante bien, pero conforme iba introduciendo funciones más complejas me iba costando más que estas funcionasen. En la última versión subida a este repositorio, la 5.0, se han introducido los alimentos para desbloquear los mensajes de nuestra mascota, sin embargo todavía no se ha arreglado la generación de choques aleatorios en el minijuego.
 
 Mayo 2025
